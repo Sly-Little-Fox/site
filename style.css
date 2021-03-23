@@ -10,17 +10,8 @@ body {
   overflow-x: hidden;
 }
 
-/* .heading {
-  display: block;
-  max-width: 70vw;
-  font-size: 3vmax;
-  color: #324467;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-} */
-
 .text {
+  transform: translateY(5vmin);
   display: block;
   font-family: 'Heebo', sans-serif;
   text-align: center;
