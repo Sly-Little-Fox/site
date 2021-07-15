@@ -17,7 +17,7 @@ body {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  font-size: 1.7vmin;
+  font-size: 1vmax;
   width: 20vw;
   color: #3e5480;
 }
@@ -31,7 +31,7 @@ a {
   font-family: 'Heebo', sans-serif;
   margin-left: auto;
   margin-right: auto;
-  height: 0.4vmin;
+  height: 0.23vmax;
   border-radius: 1vh;
   width: 20vw;
   background-color: #3e5480;
@@ -43,7 +43,7 @@ a {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  font-size: 4vmin;
+  font-size: 2.2vmax;
 }
 
 .heading {
@@ -52,5 +52,5 @@ a {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  font-size: 6vmin;
+  font-size: 3.3vmax;
 }
