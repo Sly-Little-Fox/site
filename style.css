@@ -17,7 +17,7 @@ body {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  font-size: 1em;
+  font-size: 3em;
   width: 20vw;
   color: #3e5480;
 }
@@ -43,7 +43,7 @@ a {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  font-size: 2.2em;
+  font-size: 6.6em;
 }
 
 .heading {
@@ -52,5 +52,5 @@ a {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  font-size: 3.3em;
+  font-size: 9.9em;
 }
